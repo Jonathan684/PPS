@@ -1,8 +1,7 @@
 # PPS
-
 SDR-ADALM-PLUTO
 
-![SDR](/img/sdr_pluto.jpeg)
+![SDR](/img/pluto-sdr.jpg)
 
 **Informe SRD_PLUTO**
 
@@ -46,4 +45,3 @@ Construccion de la imagen mediante:
 
 
 *--net=host* : Permite que la imagen este en la misma red que el host.
-
